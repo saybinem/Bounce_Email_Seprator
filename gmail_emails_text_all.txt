@@ -1,0 +1,487 @@
+
+
+Skip to content
+Using fnbzapro Mail with screen readers
+
+2 of 2
+Proofify
+Inbox
+x
+
+jerry zaman
+5:20 PM (9 minutes ago)
+Result if check complete: {“cid”:”123″,”checked”:true,”result”:[{“email”:”support@proofy.io”,”status”:1,”statusName”:”deliverable”,”syntax”:”1″,”mx”:”1″,”role”:
+
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+5:20 PM (9 minutes ago)
+to me
+
+Error Icon
+Address not found
+Your message wasn't delivered to dawn.chinn-flournoy@drchinnandassociates.com because the address couldn't be found, or is unable to receive mail.
+LEARN MORE
+The response was:
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser r17sor6828560vsg.110 - gsmtp
+
+
+
+
+---------- Forwarded message ----------
+From: jerry zaman <jerry@marrymermaid.com>
+To: catherine.barrett@eaglemedicalservicesllc.com, nicki.roth@eaglemedicalservicesllc.com, dawn.chinn-flournoy@drchinnandassociates.com, andrew.pugliese@idcga.com, aditya.s@sccphd.org, jepkoech.kottutt@phi-cdcfellows.org, makhabele.woolfork@phi-cdcfellows.org, miranda.delahoy@eglobal.science
+Cc: 
+Bcc: 
+Date: Sat, 16 Nov 2019 17:20:38 +0500
+Subject: Proofify
+Result if check complete:
+{“cid”:”123″,”checked”:true,”result”:[{“email”:”support@proofy.io”,”status”:1,”statusName”:”deliverable”,”syntax”:”1″,”mx”:”1″,”role”:”1″,”free”:”0″,”disposable”:”0″}]}
+
+Field	Description
+email	E-mail address
+<span style="box-sizing:border- ----- Message truncated -----
+
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+5:20 PM (9 minutes ago)
+to me
+
+Error Icon
+Address not found
+Your message wasn't delivered to andrew.pugliese@idcga.com because the address couldn't be found, or is unable to receive mail.
+LEARN MORE
+The response was:
+550 5.1.1 The email account that you tried to reach does not exist. Please try double-checking the recipient's email address for typos or unnecessary spaces. Learn more at https://support.google.com/mail/?p=NoSuchUser q20sor6815470vsk.45 - gsmtp
+
+
+
+
+---------- Forwarded message ----------
+From: jerry zaman <jerry@marrymermaid.com>
+To: catherine.barrett@eaglemedicalservicesllc.com, nicki.roth@eaglemedicalservicesllc.com, dawn.chinn-flournoy@drchinnandassociates.com, andrew.pugliese@idcga.com, aditya.s@sccphd.org, jepkoech.kottutt@phi-cdcfellows.org, makhabele.woolfork@phi-cdcfellows.org, miranda.delahoy@eglobal.science
+Cc: 
+Bcc: 
+Date: Sat, 16 Nov 2019 17:20:38 +0500
+Subject: Proofify
+Result if check complete:
+{“cid”:”123″,”checked”:true,”result”:[{“email”:”support@proofy.io”,”status”:1,”statusName”:”deliverable”,”syntax”:”1″,”mx”:”1″,”role”:”1″,”free”:”0″,”disposable”:”0″}]}
+
+Field	Description
+email	E-mail address
+<span style="box-sizing:border- ----- Message truncated -----
+
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+5:20 PM (9 minutes ago)
+to me
+
+Error Icon
+Address not found
+Your message wasn't delivered to aditya.s@sccphd.org because the address couldn't be found, or is unable to receive mail.
+LEARN MORE
+WarningThis link will take you to a third-party site
+The response from the remote server was:
+550 5.1.1 <aditya.s@sccphd.org> Recipient not found. <http://x.co/irbounce>
+
+
+
+
+---------- Forwarded message ----------
+From: jerry zaman <jerry@marrymermaid.com>
+To: catherine.barrett@eaglemedicalservicesllc.com, nicki.roth@eaglemedicalservicesllc.com, dawn.chinn-flournoy@drchinnandassociates.com, andrew.pugliese@idcga.com, aditya.s@sccphd.org, jepkoech.kottutt@phi-cdcfellows.org, makhabele.woolfork@phi-cdcfellows.org, miranda.delahoy@eglobal.science
+Cc: 
+Bcc: 
+Date: Sat, 16 Nov 2019 17:20:38 +0500
+Subject: Proofify
+Result if check complete:
+{“cid”:”123″,”checked”:true,”result”:[{“email”:”support@proofy.io”,”status”:1,”statusName”:”deliverable”,”syntax”:”1″,”mx”:”1″,”role”:”1″,”free”:”0″,”disposable”:”0″}]}
+
+Field	Description
+email	E-mail address
+<span style="box-sizing:border- ----- Message truncated -----
+
+postmaster@medpro-tech.us via medprotechnologies.onmicrosoft.com 
+5:20 PM (9 minutes ago)
+to me
+
+
+Your message to miranda.delahoy@eglobal.science couldn't be delivered.
+miranda.delahoy wasn't found at eglobal.science.
+jerry	Office 365	miranda.delahoy
+Action Required		Recipient
+Unknown To address		
+
+How to Fix It
+The address may be misspelled or may not exist. Try one or more of the following:
+Send the message again following these steps: In Outlook, open this non-delivery report (NDR) and choose Send Again from the Report ribbon. In Outlook on the web, select this NDR, then select the link "To send this message again, click here." Then delete and retype the entire recipient address. If prompted with an Auto-Complete List suggestion don't select it. After typing the complete address, click Send.
+Contact the recipient (by phone, for example) to check that the address exists and is correct.
+The recipient may have set up email forwarding to an incorrect address. Ask them to check that any forwarding they've set up is working correctly.
+Clear the recipient Auto-Complete List in Outlook or Outlook on the web by following the steps in this article: Fix email delivery issues for error code 5.1.10 in Office 365, and then send the message again. Retype the entire recipient address before selecting Send.
+If the problem continues, forward this message to your email admin. If you're an email admin, refer to the More Info for Email Admins section below.
+
+Was this helpful? Send feedback to Microsoft.
+
+More Info for Email Admins
+Status code: 550 5.1.10
+
+This error occurs because the sender sent a message to an email address hosted by Office 365 but the address is incorrect or doesn't exist at the destination domain. The error is reported by the recipient domain's email server, but most often it must be fixed by the person who sent the message. If the steps in the How to Fix It section above don't fix the problem, and you're the email admin for the recipient, try one or more of the following:
+
+The email address exists and is correct - Confirm that the recipient address exists, is correct, and is accepting messages.
+
+Synchronize your directories - If you have a hybrid environment and are using directory synchronization make sure the recipient's email address is synced correctly in both Office 365 and in your on-premises directory.
+
+Errant forwarding rule - Check for forwarding rules that aren't behaving as expected. Forwarding can be set up by an admin via mail flow rules or mailbox forwarding address settings, or by the recipient via the Inbox Rules feature.
+
+Recipient has a valid license - Make sure the recipient has an Office 365 license assigned to them. The recipient's email admin can use the Office 365 admin center to assign a license (Users > Active Users > select the recipient > Assigned License > Edit).
+
+Mail flow settings and MX records are not correct - Misconfigured mail flow or MX record settings can cause this error. Check your Office 365 mail flow settings to make sure your domain and any mail flow connectors are set up correctly. Also, work with your domain registrar to make sure the MX records for your domain are configured correctly.
+
+For more information and additional tips to fix this issue, see Fix email delivery issues for error code 5.1.10 in Office 365.
+
+Original Message Details
+Created Date:	11/16/2019 12:20:38 PM
+Sender Address:	jerry@marrymermaid.com
+Recipient Address:	miranda.delahoy@eglobal.science
+Subject:	Proofify
+
+Error Details
+Reported error:	550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient miranda.delahoy@eglobal.science not found by SMTP address lookup
+DSN generated by:	MN2PR10MB3677.namprd10.prod.outlook.com
+Message Hops
+HOP	TIME (UTC)	FROM	TO	WITH	RELAY TIME
+1	11/16/2019
+12:20:50 PM		mail-vs1-f67.google.com	SMTP	12 sec
+2	11/16/2019
+12:20:50 PM	mail-vs1-f67.google.com	SN1NAM02FT018.mail.protection.outlook.com	Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)	*
+3	11/16/2019
+12:20:51 PM	SN1NAM02FT018.eop-nam02.prod.protection.outlook.com	MWHPR10CA0012.outlook.office365.com	Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)	1 sec
+4	11/16/2019
+12:20:51 PM	MWHPR10CA0012.namprd10.prod.outlook.com	MN2PR10MB3677.namprd10.prod.outlook.com	Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)	*
+Original Message Headers
+
+Received: from MWHPR10CA0012.namprd10.prod.outlook.com (2603:10b6:301::22) by
+ MN2PR10MB3677.namprd10.prod.outlook.com (2603:10b6:208:115::17) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2430.23; Sat, 16 Nov
+ 2019 12:20:51 +0000
+Received: from SN1NAM02FT018.eop-nam02.prod.protection.outlook.com
+ (2a01:111:f400:7e44::205) by MWHPR10CA0012.outlook.office365.com
+ (2603:10b6:301::22) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2451.23 via Frontend
+ Transport; Sat, 16 Nov 2019 12:20:51 +0000
+Authentication-Results: spf=none (sender IP is 209.85.217.67)
+ smtp.mailfrom=marrymermaid.com; eglobal.science; dkim=pass (signature was
+ verified) header.d=marrymermaid-com.20150623.gappssmtp.com;eglobal.science;
+ dmarc=none action=none header.from=marrymermaid.com;
+Received-SPF: None (protection.outlook.com: marrymermaid.com does not
+ designate permitted sender hosts)
+Received: from mail-vs1-f67.google.com (209.85.217.67) by
+ SN1NAM02FT018.mail.protection.outlook.com (10.152.72.122) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.2451.23 via Frontend Transport; Sat, 16 Nov 2019 12:20:50 +0000
+Received: by mail-vs1-f67.google.com with SMTP id a143so8196945vsd.9
+        for <miranda.delahoy@eglobal.science>; Sat, 16 Nov 2019 04:20:50 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=marrymermaid-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=MOf9hd6Omt11UX6a68c0r834x+vOdhySteDlEf/T2Uk=;
+        b=MzAxLj3HaIySVmE9IktOOiCqZV/qpiRz30erBWoCKT2nWuz0CipzGV/DvgP4qwp6ZX
+         mS+ttomUoRP49ptAeXT6yUgNTQtFw+54JA6SF3OGQvamkmaP5QjgcHnm4KZuSByW9VHg
+         X0q44qxFrwHOA5n2VMJn0AD8ObRACMRRwY6ZJWfAVbV4P8BbuvHYEsS/V5RHOWmFlIz8
+         2SZgUToknlHOzaqw7uzHaUVIDLzFpeLDoWEr3s7VUR6c9iFN+UrcI8TJ1WcoYAWdIGWo
+         jjDNMSjOEeCPVRgVLL09tpm07Py0ceXaZQ55mb6iMyQNVWGzdR//HKlEJrYD3OepByDC
+         /O8Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=MOf9hd6Omt11UX6a68c0r834x+vOdhySteDlEf/T2Uk=;
+        b=uDQM7sYBxPg0BdaZ93Gc0mqrd5hVD9yRef12Ajy/mj9tabUr/BbZ8OR82oaBvbO27e
+         2rLl+v+7UprOIAStAm8uvsaANUHjb5EgpJ93UkK24Kk213ZaWJnagX/77SBne3l/Mnra
+         iGKpjDICpmFzlN/WlvFogtn/N0KK6Pol8m7O84VhEiUQ8XKwfh6a75DqS9KthW6hEa7c
+         5i6ij9Q5mZxoyhe4sIMMPUcSkXe4t0dJwCbHodVBSgWco4yjFH3TCAp4azRvmQhYk7sO
+         kkIfdRFno2d+GrjLEigPHsbrO+NVW3OTeHHFjRLi5lyQ+d5TMaeeNA+tjax4FEh8zedG
+         CwIA==
+X-Gm-Message-State: APjAAAWkBFRwYpMSInv3Mv/yIK27wkFy4OLFP4HYmTSHmic8SXfhPWAf
+	sGoZu6VeojLhJDAwSIExR+ZhbKQM425jB5VkUVjrlg==
+X-Google-Smtp-Source: APXvYqxXn8MwTn6akrrhEc1eJeJt5yu+z5BoYiDzq78og0ub4z1gbwYfx6+9vplTmteFrV4UR03A8AgJb7wBz0sAiJY=
+X-Received: by 2002:a67:c88f:: with SMTP id v15mr4397027vsk.172.1573906849621;
+ Sat, 16 Nov 2019 04:20:49 -0800 (PST)
+MIME-Version: 1.0
+From: jerry zaman <jerry@marrymermaid.com>
+Date: Sat, 16 Nov 2019 17:20:38 +0500
+Message-ID: <CAJB+PNpU0gBhfxsstXoC5iuDE00v6E3aA8_yn30DH7M2hbrjqg@mail.gmail.com>
+Subject: Proofify
+To: catherine.barrett@eaglemedicalservicesllc.com, 
+	nicki.roth@eaglemedicalservicesllc.com, 
+	dawn.chinn-flournoy@drchinnandassociates.com, andrew.pugliese@idcga.com, 
+	aditya.s@sccphd.org, jepkoech.kottutt@phi-cdcfellows.org, 
+	makhabele.woolfork@phi-cdcfellows.org, miranda.delahoy@eglobal.science
+Content-Type: multipart/alternative; boundary="000000000000ae6947059775bead"
+Return-Path: jerry@marrymermaid.com
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 1853a044-8190-499f-9e4c-7d5e32afb358:0
+X-Forefront-Antispam-Report: CIP:209.85.217.67;IPV:NLI;CTRY:US;EFV:NLI;
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 1b291578-f69c-4f48-4b5e-08d76a8f6b15
+X-MS-TrafficTypeDiagnostic: MN2PR10MB3677:
+X-MS-Exchange-PUrlCount: 2
+
+
+postmaster@phi-cdcfellows.org via phicdc.onmicrosoft.com 
+5:20 PM (9 minutes ago)
+to me
+
+
+Your message to jepkoech.kottutt@phi-cdcfellows.org couldn't be delivered.
+jepkoech.kottutt wasn't found at phi-cdcfellows.org.
+jerry	Office 365	jepkoech.kottutt
+Action Required		Recipient
+Unknown To address		
+
+How to Fix It
+The address may be misspelled or may not exist. Try one or more of the following:
+Send the message again following these steps: In Outlook, open this non-delivery report (NDR) and choose Send Again from the Report ribbon. In Outlook on the web, select this NDR, then select the link "To send this message again, click here." Then delete and retype the entire recipient address. If prompted with an Auto-Complete List suggestion don't select it. After typing the complete address, click Send.
+Contact the recipient (by phone, for example) to check that the address exists and is correct.
+The recipient may have set up email forwarding to an incorrect address. Ask them to check that any forwarding they've set up is working correctly.
+Clear the recipient Auto-Complete List in Outlook or Outlook on the web by following the steps in this article: Fix email delivery issues for error code 5.1.10 in Office 365, and then send the message again. Retype the entire recipient address before selecting Send.
+If the problem continues, forward this message to your email admin. If you're an email admin, refer to the More Info for Email Admins section below.
+
+Was this helpful? Send feedback to Microsoft.
+
+More Info for Email Admins
+Status code: 550 5.1.10
+
+This error occurs because the sender sent a message to an email address hosted by Office 365 but the address is incorrect or doesn't exist at the destination domain. The error is reported by the recipient domain's email server, but most often it must be fixed by the person who sent the message. If the steps in the How to Fix It section above don't fix the problem, and you're the email admin for the recipient, try one or more of the following:
+
+The email address exists and is correct - Confirm that the recipient address exists, is correct, and is accepting messages.
+
+Synchronize your directories - If you have a hybrid environment and are using directory synchronization make sure the recipient's email address is synced correctly in both Office 365 and in your on-premises directory.
+
+Errant forwarding rule - Check for forwarding rules that aren't behaving as expected. Forwarding can be set up by an admin via mail flow rules or mailbox forwarding address settings, or by the recipient via the Inbox Rules feature.
+
+Recipient has a valid license - Make sure the recipient has an Office 365 license assigned to them. The recipient's email admin can use the Office 365 admin center to assign a license (Users > Active Users > select the recipient > Assigned License > Edit).
+
+Mail flow settings and MX records are not correct - Misconfigured mail flow or MX record settings can cause this error. Check your Office 365 mail flow settings to make sure your domain and any mail flow connectors are set up correctly. Also, work with your domain registrar to make sure the MX records for your domain are configured correctly.
+
+For more information and additional tips to fix this issue, see Fix email delivery issues for error code 5.1.10 in Office 365.
+
+Original Message Details
+Created Date:	11/16/2019 12:20:38 PM
+Sender Address:	jerry@marrymermaid.com
+Recipient Address:	jepkoech.kottutt@phi-cdcfellows.org
+Subject:	Proofify
+
+Error Details
+Reported error:	550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient jepkoech.kottutt@phi-cdcfellows.org not found by SMTP address lookup
+DSN generated by:	MWHPR1101MB2351.namprd11.prod.outlook.com
+Message Hops
+HOP	TIME (UTC)	FROM	TO	WITH	RELAY TIME
+1	11/16/2019
+12:20:50 PM		mail-vs1-f65.google.com	SMTP	12 sec
+2	11/16/2019
+12:20:50 PM	mail-vs1-f65.google.com	CO1NAM11FT043.mail.protection.outlook.com	Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)	*
+3	11/16/2019
+12:20:51 PM	CO1NAM11FT043.eop-nam11.prod.protection.outlook.com	BN6PR11CA0001.outlook.office365.com	Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)	1 sec
+4	11/16/2019
+12:20:51 PM	BN6PR11CA0001.namprd11.prod.outlook.com	MWHPR1101MB2351.namprd11.prod.outlook.com	Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)	*
+Original Message Headers
+
+Received: from BN6PR11CA0001.namprd11.prod.outlook.com (2603:10b6:405:2::11)
+ by MWHPR1101MB2351.namprd11.prod.outlook.com (2603:10b6:300:74::18) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2451.23; Sat, 16 Nov
+ 2019 12:20:51 +0000
+Received: from CO1NAM11FT043.eop-nam11.prod.protection.outlook.com
+ (2a01:111:f400:7eab::206) by BN6PR11CA0001.outlook.office365.com
+ (2603:10b6:405:2::11) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2451.23 via Frontend
+ Transport; Sat, 16 Nov 2019 12:20:51 +0000
+Authentication-Results: spf=none (sender IP is 209.85.217.65)
+ smtp.mailfrom=marrymermaid.com; phi-cdcfellows.org; dkim=pass (signature was
+ verified)
+ header.d=marrymermaid-com.20150623.gappssmtp.com;phi-cdcfellows.org;
+ dmarc=none action=none header.from=marrymermaid.com;
+Received-SPF: None (protection.outlook.com: marrymermaid.com does not
+ designate permitted sender hosts)
+Received: from mail-vs1-f65.google.com (209.85.217.65) by
+ CO1NAM11FT043.mail.protection.outlook.com (10.13.174.193) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.2451.23 via Frontend Transport; Sat, 16 Nov 2019 12:20:50 +0000
+Received: by mail-vs1-f65.google.com with SMTP id y23so8234296vso.1
+        for <jepkoech.kottutt@phi-cdcfellows.org>; Sat, 16 Nov 2019 04:20:50 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=marrymermaid-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=MOf9hd6Omt11UX6a68c0r834x+vOdhySteDlEf/T2Uk=;
+        b=MzAxLj3HaIySVmE9IktOOiCqZV/qpiRz30erBWoCKT2nWuz0CipzGV/DvgP4qwp6ZX
+         mS+ttomUoRP49ptAeXT6yUgNTQtFw+54JA6SF3OGQvamkmaP5QjgcHnm4KZuSByW9VHg
+         X0q44qxFrwHOA5n2VMJn0AD8ObRACMRRwY6ZJWfAVbV4P8BbuvHYEsS/V5RHOWmFlIz8
+         2SZgUToknlHOzaqw7uzHaUVIDLzFpeLDoWEr3s7VUR6c9iFN+UrcI8TJ1WcoYAWdIGWo
+         jjDNMSjOEeCPVRgVLL09tpm07Py0ceXaZQ55mb6iMyQNVWGzdR//HKlEJrYD3OepByDC
+         /O8Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=MOf9hd6Omt11UX6a68c0r834x+vOdhySteDlEf/T2Uk=;
+        b=ekiR0mgQubialw/aA5B5jEQMRhaD4y49lXO9sGi99deD1Iyq4pVCVGIgpkNyv8mU4V
+         +5tJxES/y5OmApXnsazfAD7pbnl9bkWEETlKaMLsTVudXzkxkB47tu/aV63/GFfDGCJk
+         ULfvIeGzwO5yPsiqJrgeAViGNGA7G/iGKYq0QnF7zsPKfLA9Tu9GHf1SWAZnT46jLAM/
+         EEX/+79qHAqy6xs+roqP1yQFki3UaNjGC+O3IGvTLlKMoFMMblv+1SplNyPqc56pnqNU
+         Xdc2mbyU+9mVhyoz6w9izmjzs76dFhiIa1G6N5PJaYekrf2+j/dCqMBYknZ0v1VhswdA
+         Wx2A==
+X-Gm-Message-State: APjAAAV7MldVnMxevFL10qklHQpQhsTbiiQeKMvlbvIpHHA0+dFkdecy
+	ogzhvKX13rtf7UprxepJc2YODJOYFKFlkOBwlinsRQ==
+X-Google-Smtp-Source: APXvYqxXn8MwTn6akrrhEc1eJeJt5yu+z5BoYiDzq78og0ub4z1gbwYfx6+9vplTmteFrV4UR03A8AgJb7wBz0sAiJY=
+X-Received: by 2002:a67:c88f:: with SMTP id v15mr4397027vsk.172.1573906849621;
+ Sat, 16 Nov 2019 04:20:49 -0800 (PST)
+MIME-Version: 1.0
+From: jerry zaman <jerry@marrymermaid.com>
+Date: Sat, 16 Nov 2019 17:20:38 +0500
+Message-ID: <CAJB+PNpU0gBhfxsstXoC5iuDE00v6E3aA8_yn30DH7M2hbrjqg@mail.gmail.com>
+Subject: Proofify
+To: catherine.barrett@eaglemedicalservicesllc.com, 
+	nicki.roth@eaglemedicalservicesllc.com, 
+	dawn.chinn-flournoy@drchinnandassociates.com, andrew.pugliese@idcga.com, 
+	aditya.s@sccphd.org, jepkoech.kottutt@phi-cdcfellows.org, 
+	makhabele.woolfork@phi-cdcfellows.org, miranda.delahoy@eglobal.science
+Content-Type: multipart/alternative; boundary="000000000000ae6947059775bead"
+Return-Path: jerry@marrymermaid.com
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 289963ea-4e4e-481c-ad2e-c81897161751:0
+X-Forefront-Antispam-Report: CIP:209.85.217.65;IPV:NLI;CTRY:US;EFV:NLI;
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 7ab89971-42e5-49b4-ed16-08d76a8f6b45
+X-MS-TrafficTypeDiagnostic: MWHPR1101MB2351:
+X-MS-Exchange-PUrlCount: 2
+
+
+postmaster@phi-cdcfellows.org via phicdc.onmicrosoft.com 
+5:20 PM (9 minutes ago)
+to me
+
+
+Your message to makhabele.woolfork@phi-cdcfellows.org couldn't be delivered.
+makhabele.woolfork wasn't found at phi-cdcfellows.org.
+jerry	Office 365	makhabele.woolfork
+Action Required		Recipient
+Unknown To address		
+
+How to Fix It
+The address may be misspelled or may not exist. Try one or more of the following:
+Send the message again following these steps: In Outlook, open this non-delivery report (NDR) and choose Send Again from the Report ribbon. In Outlook on the web, select this NDR, then select the link "To send this message again, click here." Then delete and retype the entire recipient address. If prompted with an Auto-Complete List suggestion don't select it. After typing the complete address, click Send.
+Contact the recipient (by phone, for example) to check that the address exists and is correct.
+The recipient may have set up email forwarding to an incorrect address. Ask them to check that any forwarding they've set up is working correctly.
+Clear the recipient Auto-Complete List in Outlook or Outlook on the web by following the steps in this article: Fix email delivery issues for error code 5.1.10 in Office 365, and then send the message again. Retype the entire recipient address before selecting Send.
+If the problem continues, forward this message to your email admin. If you're an email admin, refer to the More Info for Email Admins section below.
+
+Was this helpful? Send feedback to Microsoft.
+
+More Info for Email Admins
+Status code: 550 5.1.10
+
+This error occurs because the sender sent a message to an email address hosted by Office 365 but the address is incorrect or doesn't exist at the destination domain. The error is reported by the recipient domain's email server, but most often it must be fixed by the person who sent the message. If the steps in the How to Fix It section above don't fix the problem, and you're the email admin for the recipient, try one or more of the following:
+
+The email address exists and is correct - Confirm that the recipient address exists, is correct, and is accepting messages.
+
+Synchronize your directories - If you have a hybrid environment and are using directory synchronization make sure the recipient's email address is synced correctly in both Office 365 and in your on-premises directory.
+
+Errant forwarding rule - Check for forwarding rules that aren't behaving as expected. Forwarding can be set up by an admin via mail flow rules or mailbox forwarding address settings, or by the recipient via the Inbox Rules feature.
+
+Recipient has a valid license - Make sure the recipient has an Office 365 license assigned to them. The recipient's email admin can use the Office 365 admin center to assign a license (Users > Active Users > select the recipient > Assigned License > Edit).
+
+Mail flow settings and MX records are not correct - Misconfigured mail flow or MX record settings can cause this error. Check your Office 365 mail flow settings to make sure your domain and any mail flow connectors are set up correctly. Also, work with your domain registrar to make sure the MX records for your domain are configured correctly.
+
+For more information and additional tips to fix this issue, see Fix email delivery issues for error code 5.1.10 in Office 365.
+
+Original Message Details
+Created Date:	11/16/2019 12:20:38 PM
+Sender Address:	jerry@marrymermaid.com
+Recipient Address:	makhabele.woolfork@phi-cdcfellows.org
+Subject:	Proofify
+
+Error Details
+Reported error:	550 5.1.10 RESOLVER.ADR.RecipientNotFound; Recipient makhabele.woolfork@phi-cdcfellows.org not found by SMTP address lookup
+DSN generated by:	BYAPR11MB2760.namprd11.prod.outlook.com
+Message Hops
+HOP	TIME (UTC)	FROM	TO	WITH	RELAY TIME
+1	11/16/2019
+12:20:50 PM		mail-vs1-f66.google.com	SMTP	12 sec
+2	11/16/2019
+12:20:50 PM	mail-vs1-f66.google.com	CO1NAM11FT024.mail.protection.outlook.com	Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)	*
+3	11/16/2019
+12:20:52 PM	CO1NAM11FT024.eop-nam11.prod.protection.outlook.com	BN6PR11CA0004.outlook.office365.com	Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)	2 sec
+4	11/16/2019
+12:20:52 PM	BN6PR11CA0004.namprd11.prod.outlook.com	BYAPR11MB2760.namprd11.prod.outlook.com	Microsoft SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384)	*
+Original Message Headers
+
+Received: from BN6PR11CA0004.namprd11.prod.outlook.com (2603:10b6:405:2::14)
+ by BYAPR11MB2760.namprd11.prod.outlook.com (2603:10b6:a02:c0::26) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2451.28; Sat, 16 Nov
+ 2019 12:20:52 +0000
+Received: from CO1NAM11FT024.eop-nam11.prod.protection.outlook.com
+ (2a01:111:f400:7eab::204) by BN6PR11CA0004.outlook.office365.com
+ (2603:10b6:405:2::14) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2451.22 via Frontend
+ Transport; Sat, 16 Nov 2019 12:20:52 +0000
+Authentication-Results: spf=none (sender IP is 209.85.217.66)
+ smtp.mailfrom=marrymermaid.com; phi-cdcfellows.org; dkim=pass (signature was
+ verified)
+ header.d=marrymermaid-com.20150623.gappssmtp.com;phi-cdcfellows.org;
+ dmarc=none action=none header.from=marrymermaid.com;
+Received-SPF: None (protection.outlook.com: marrymermaid.com does not
+ designate permitted sender hosts)
+Received: from mail-vs1-f66.google.com (209.85.217.66) by
+ CO1NAM11FT024.mail.protection.outlook.com (10.13.174.162) with Microsoft SMTP
+ Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.2451.23 via Frontend Transport; Sat, 16 Nov 2019 12:20:50 +0000
+Received: by mail-vs1-f66.google.com with SMTP id j85so8199997vsd.11
+        for <makhabele.woolfork@phi-cdcfellows.org>; Sat, 16 Nov 2019 04:20:50 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=marrymermaid-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=MOf9hd6Omt11UX6a68c0r834x+vOdhySteDlEf/T2Uk=;
+        b=MzAxLj3HaIySVmE9IktOOiCqZV/qpiRz30erBWoCKT2nWuz0CipzGV/DvgP4qwp6ZX
+         mS+ttomUoRP49ptAeXT6yUgNTQtFw+54JA6SF3OGQvamkmaP5QjgcHnm4KZuSByW9VHg
+         X0q44qxFrwHOA5n2VMJn0AD8ObRACMRRwY6ZJWfAVbV4P8BbuvHYEsS/V5RHOWmFlIz8
+         2SZgUToknlHOzaqw7uzHaUVIDLzFpeLDoWEr3s7VUR6c9iFN+UrcI8TJ1WcoYAWdIGWo
+         jjDNMSjOEeCPVRgVLL09tpm07Py0ceXaZQ55mb6iMyQNVWGzdR//HKlEJrYD3OepByDC
+         /O8Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=MOf9hd6Omt11UX6a68c0r834x+vOdhySteDlEf/T2Uk=;
+        b=BVlRl+P+qP2Y1frq/6WV8v7InMkbZWl93ix8z8aXwkE2cxvFeCMua1H63fYz6rf6XF
+         ZohMyxZ+0j5FtNu9bLdVXh3sgVKsMhitsMS5uvc7qCNYbQ8PFjLO3mybjYtZxz0BFy+c
+         SaTK/clH2ZvHewpOe5frVM5d79hHlL22UnDQ0zSoGwFYdlAXNzufIqMBENeF++aiDbRW
+         j8uPZiftGMwpGegSm01J+y1pBrvACepgbLP8+pKx+XIPw6JX3KKqk4JiSVQBuhDiBzGe
+         MqIsnmOZ7h1e5AKqmjTxZAYhnqipyDL38Dl0cL5ny47L9xbXQZwkMM9DxRoaXUoXwcvD
+         IqVw==
+X-Gm-Message-State: APjAAAVkUyH42Z07Gh1cbj8+lG1qwoTgB8OJQlzROuTfRnukQIuGpvtx
+	U+oUjT0KczNRVGh14W9BJPPSVeka4eZjIvRkEmsaAw==
+X-Google-Smtp-Source: APXvYqxXn8MwTn6akrrhEc1eJeJt5yu+z5BoYiDzq78og0ub4z1gbwYfx6+9vplTmteFrV4UR03A8AgJb7wBz0sAiJY=
+X-Received: by 2002:a67:c88f:: with SMTP id v15mr4397027vsk.172.1573906849621;
+ Sat, 16 Nov 2019 04:20:49 -0800 (PST)
+MIME-Version: 1.0
+From: jerry zaman <jerry@marrymermaid.com>
+Date: Sat, 16 Nov 2019 17:20:38 +0500
+Message-ID: <CAJB+PNpU0gBhfxsstXoC5iuDE00v6E3aA8_yn30DH7M2hbrjqg@mail.gmail.com>
+Subject: Proofify
+To: catherine.barrett@eaglemedicalservicesllc.com, 
+	nicki.roth@eaglemedicalservicesllc.com, 
+	dawn.chinn-flournoy@drchinnandassociates.com, andrew.pugliese@idcga.com, 
+	aditya.s@sccphd.org, jepkoech.kottutt@phi-cdcfellows.org, 
+	makhabele.woolfork@phi-cdcfellows.org, miranda.delahoy@eglobal.science
+Content-Type: multipart/alternative; boundary="000000000000ae6947059775bead"
+Return-Path: jerry@marrymermaid.com
+X-EOPAttributedMessage: 0
+X-EOPTenantAttributedMessage: 289963ea-4e4e-481c-ad2e-c81897161751:0
+X-Forefront-Antispam-Report: CIP:209.85.217.66;IPV:NLI;CTRY:US;EFV:NLI;
+X-MS-PublicTrafficType: Email
+X-MS-Office365-Filtering-Correlation-Id: 5a1ea655-1d7b-47fe-3d64-08d76a8f6b49
+X-MS-TrafficTypeDiagnostic: BYAPR11MB2760:
+X-MS-Exchange-PUrlCount: 2
+
+Sales Navigator Logo
+jerry@marrymermaid.com
+Sorry, we couldn't find a matching LinkedIn profile for this email address.
+HelpPrivacy & Terms
+
+
